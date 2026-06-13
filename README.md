@@ -12,3 +12,6 @@ A responsive YouTube homepage clone built using HTML and CSS.
 ## Technologies Used
 - HTML5
 - CSS3
+
+## Live Demo
+https://akshaya-garikipati.github.io/YouTube-Clone/
